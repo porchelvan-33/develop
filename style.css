@@ -4,6 +4,9 @@ p{
 #Welcome{
     color: firebrick;
 }
-.text{
+p.text{
     color: blueviolet;
+}
+h5,p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
